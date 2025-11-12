@@ -1,4 +1,4 @@
-# Tricky Store 4
+# Tricky Store 4 Life
 
 A trick of keystore. **Android 10 or above is required**.
 
